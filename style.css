@@ -94,7 +94,6 @@ body{
 .collections{
     width: 1050px;
     height: 1662px;
-    /* border: 2px solid; */
     margin-top: 100px;
     margin-left: 130px;
     margin-right: 130px;
@@ -155,6 +154,23 @@ body{
     font-size: 16px;
     color:#E02C6D ;
     font-weight: 700;
-    
-    
+}
+/* Bonus */
+.bonus{
+    display: flex;
+    width: 80%;
+    margin-top: 78px;
+    margin-left: 130px;
+}
+.bonus-button{
+    width: 150px;
+    height: 44px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+    border-radius: 45px;
+    background-color: #E02C6D;
+    border: none;
 }
