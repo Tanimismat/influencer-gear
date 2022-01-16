@@ -266,9 +266,10 @@ footer{
         justify-content: center;
         align-items: center;
     }
-    /* h2{
-        text-align: center;
-    } */
+    h2{ 
+        width:330px ;
+        justify-content: center;
+    } 
     .all-collections{
         grid-template-columns: repeat(1, 1fr);
     }
